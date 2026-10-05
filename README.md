@@ -40,7 +40,3 @@ Kurulum hazır.
 Status counts: {'SUCCESS': 39, 'FAILED': 21}
 Top failed IP: ('10.10.1.25', 8)
 ```
-
-## Sınırlılıklar
-- Log satırlarının `timestamp key=value key=value ...` biçiminde olduğu varsayılır.
-- `auth.log` dosyası, script'in bulunduğu klasörün bir üstündeki `datasets/` klasöründe aranır.
