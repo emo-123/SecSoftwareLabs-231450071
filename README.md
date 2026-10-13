@@ -5,9 +5,18 @@
 SecSoftwareLabs-231450071
 ├── README.md
 ├── datasets/
-└── Homework-1/
-    ├── week01_setup_check.py
-    └── week02_log_parser.py
+├── homework1/
+│   ├── week01_setup_check.py
+│   └── week02_log_parser.py
+├── homework2/
+│   ├── week03_regex_json.py
+│   ├── failed_events.csv
+│   └── README.md
+└── homework3/
+    ├── server.py
+    ├── client.py
+    ├── high_events.csv
+    └── README.md
 ```
 
 ---
